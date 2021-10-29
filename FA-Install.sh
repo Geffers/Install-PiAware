@@ -22,7 +22,7 @@ sudo apt-get upgrade -y
 sleep 5s
 clear
 echo "now to install PiAware"
-echo 15s
+sleep 15s
 sudo apt-get install piaware -y
 echo "  "
 echo "PiAware installed"
