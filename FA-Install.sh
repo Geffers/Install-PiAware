@@ -13,7 +13,7 @@ clear
 echo "Now we will update and upgrade the system"
 sleep 5s
 echo "  "
-echo "This may take a wee while depending on how recent Pi Organistation updated their image"
+echo "This may take a wee while depending on how recent Pi Organisation updated their image"
 sleep 20s
 
 sudo apt-get update -y
