@@ -3,7 +3,7 @@ To install dump1090 and PiAware
 
 For ADS-B enthusiasts wanting to use a Raspberry Pi for aircraft plotting.
 
-Zero ideal for this project but if you want extra graphs, data bases or serversmaybe the new Zero 2
+Zero ideal for this project but if you want extra graphs, data bases or servers maybe the new Zero 2
 or a conventional Pi may be more suitable.
 
 This script is ideal for a new Buster-Lite system, it will update and upgrade the initial installation,
