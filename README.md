@@ -1,4 +1,7 @@
 # Install-PiAware
+
+Only tested on BUSTER as at 10 February 2022
+
 To install dump1090 and PiAware
 
 For ADS-B enthusiasts wanting to use a Raspberry Pi for aircraft plotting.
