@@ -5,9 +5,9 @@
 
 # First add Flightaware repository
 echo "First we get the flightaware repository then we add it to the apt system"
-wget https://flightaware.com/adsb/piaware/files/packages/pool/piaware/p/piaware-support/piaware-repository_7.2_all.deb
+wget https://flightaware.com/adsb/piaware/files/packages/pool/piaware/f/flightaware-apt-repository/flightaware-apt-repository_1.1_all.deb
 sleep 5s
-sudo dpkg -i piaware-repository_7.2_all.deb
+sudo dpkg -i flightaware-apt-repository_1.1_all.deb
 sleep 15s
 clear
 echo "Now we will update and upgrade the system"
