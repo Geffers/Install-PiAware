@@ -2,7 +2,7 @@
 
 Installation script for Buster, Bullseye or Bookworm.
 
-February 7 2023 updated Flightaware repository on both Buster and Bullseye scripts.
+22 January 2024 checked script works for Bookworm as well as Buster and Bullseye.
 
 To install dump1090 and PiAware
 
